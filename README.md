@@ -14,7 +14,7 @@ Recently, I finished reading the life-changing book "Atomic Habits" by James Cle
 - Sentiment Analysis: Analyze sentiment using NLP techniques.
 - Solution and Recommendations: Summarize findings and provide actionable recommendations.
 
-# Stakeholders: WHY CUSTOMER SENTIMENT ANALYSIS?
+# Stakeholders: Who will get benefits from customer sentiment analysis?
 - Retailers: Whether it's on Amazon, Flipkart, or Shopify, retailers can benefit greatly from understanding customer sentiments. By learning from this project, they can refine their product offerings and marketing strategies to create happier customers and drive more sales.
 - Authors & Publishers: Understanding how readers feel about their work is vital for authors and publishers. By uncovering insights from customer sentiments, they can improve future books, connect better with their audience, and boost sales and loyalty.
 - Data Enthusiasts: Scraping Amazon reviews was no easy feat, and I realized there's a lack of accessible tutorials out there. So, I'm creating a comprehensive guide to help others navigate through similar challenges and empower fellow data enthusiasts in their projects.
